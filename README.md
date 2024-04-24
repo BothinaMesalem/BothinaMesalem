@@ -10,6 +10,10 @@
 - 📫 How to reach me: bothinamesalem@gmail.com 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BothinaMesalem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/bothina-mesalem/)  
+
+
+
 
 
 
