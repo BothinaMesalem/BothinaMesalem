@@ -25,7 +25,7 @@ A passionate Full Stack Developer based in Egypt. Currently, I'm honing my skill
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/BothinaMesalem)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/bothina-mesalem/)  
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BothinaMesalem&theme=dark&show_icons=true)
 
 
 
